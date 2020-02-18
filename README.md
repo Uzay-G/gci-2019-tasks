@@ -1,6 +1,8 @@
 
 I worked with [Publiclab](https://publiclab.org) this year and was thrilled to be one of their winners :rocket:. Here are the 35 tasks I solved during the two months of GCI 2019.
 
+Tasks were classed by difficulty and there were also certain supportive tasks that could be done multiple times.
+
 ## Hall of Fame
 
 - I solved 3 different in-depth system testing tasks during the content. These system tests run in headless browsers using Capybara. GCI Tasks: [1](https://codein.withgoogle.com/archive/2019/t/6015285472002048/), [2](https://codein.withgoogle.com/archive/2019/t/6413406593089536/), [3](https://codein.withgoogle.com/archive/2019/t/6006675136315392/)
