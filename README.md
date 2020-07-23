@@ -1,5 +1,5 @@
 
-I worked with [Publiclab](https://publiclab.org) this year and was thrilled to be one of their winners :rocket:. Here are the 35 tasks I solved during the two months of GCI 2019.
+I worked with [Public Lab](https://publiclab.org) this year and was thrilled to be one of their winners :rocket:. Here are the 35 tasks I solved during the two months of GCI 2019.
 
 Tasks were classed by difficulty and there were also certain supportive tasks that could be done multiple times.
 
@@ -8,7 +8,7 @@ Tasks were classed by difficulty and there were also certain supportive tasks th
 - I solved 3 different in-depth system testing tasks during the content. These system tests run in headless browsers using Capybara. GCI Tasks: [1](https://codein.withgoogle.com/archive/2019/t/6015285472002048/), [2](https://codein.withgoogle.com/archive/2019/t/6413406593089536/), [3](https://codein.withgoogle.com/archive/2019/t/6006675136315392/)
 <details>
   <summary>PRs for above tasks</summary>
-  <br>
+  <br>https://github.com/publiclab/plots2/pull/7314
   <ul>
     <li>https://github.com/publiclab/plots2/pull/7329</li>
     <li>https://github.com/publiclab/plots2/pull/7293</li>
@@ -19,7 +19,7 @@ Tasks were classed by difficulty and there were also certain supportive tasks th
   </ul>
 </details>
 
-- [Oauth Issues](https://codein.withgoogle.com/archive/2019/t/5997273587122176/). This was a multi-pr task on the login/signup system of the [Plots2 website](https://github.com/publiclab/plots2). It consisted in testing many different parts of the application and fixing hidden bugs or catches in the oauth login system. Solved in https://github.com/publiclab/plots2/pull/ and https://github.com/publiclab/plots2/pull/7221.
+- [Oauth Issues](https://codein.withgoogle.com/archive/2019/t/5997273587122176/). This was a multi-pr task on the login/signup system of the [Plots2 website](https://github.com/publiclab/plots2). It consisted in testing many different parts of the application and fixing hidden bugs or catches in the oauth login system. Solved in https://github.com/publiclab/plots2/pull/7314 and https://github.com/publiclab/plots2/pull/7221.
 
 - [Redirect to same page on Oauth Login/Signup](https://codein.withgoogle.com/archive/2019/t/5179672933957632/). A difficult task in fixing the multi-system login and signup process of Plots2 so that users are correctly redirected in each scenario.
 
